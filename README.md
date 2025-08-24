@@ -1,3 +1,5 @@
+Hello👋 I'm Marc Leanne, 🤠
+
 🎓About Me
 
 • 🖥 BSIT Student at Laguna State Polytechnic University
@@ -26,4 +28,6 @@
 
 ✉️ Connect with Me
 
-⭐ llenn081104@gmail.com
+• llenn081104@gmail.com
+
+
