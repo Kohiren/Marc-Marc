@@ -1,4 +1,6 @@
 Hello👋 I'm Marc Leanne, 🤠
+I live in Sulib, Pangil, Laguna, 
+Currently A 4th year Student
 
 🎓About Me
 
@@ -6,13 +8,14 @@ Hello👋 I'm Marc Leanne, 🤠
 
 • 💻 Currently learning Python, Flask, SQL, Flutter, and Dart
 
-• 🎯 Goal: To become a skilled Web and Mobile Application Developer
+• 🎯 Goal: To become a skilled Web and Mobile Application Developer, and a Web designer
 
 • 📚 Interested in Software Development, and UI/UX Design
 
+
 🚀 Skills
 
-• Languages: Python, Dart, SQL
+• Languages: Python, Dart, CSS, HTML
 
 • Frameworks/Tools: Flask, Flutter, Git, GitHub
 
